@@ -89,21 +89,6 @@
     ]
 },
 {
-    "id":"7",
-    "list":[
-        {"id":"1","title":"水井坊 臻酿八號 52度500ml*6瓶整箱装","url":"/images/drinks1.jpg","price":"2009.9"},
-        {"id":"2","title":"【送洋酒酒具套装】法国原瓶进口XO 珍藏级洋酒 白兰地 国王路易十五700ml礼盒套装","url":"/images/drinks2.jpg","price":"268.9"},
-        {"id":"3","title":"百威（Budweiser）啤酒600ml*12大瓶  整箱","url":"/images/drinks3.jpg","price":"69.8"},
-        {"id":"4","title":"郎酒 改革开放四十周年纪念酒 限量发售 53度 1000ml 单支装  酱香型白酒","url":"/images/drinks4.jpg","price":369.0"},
-	{"id":"5","title":"泸州老窖 国窖1573 礼盒装 52度 浓香型白酒 500ml*2瓶（新老包装随机发货）","url":"/images/drinks5.jpg","price":"1739.9"},
-	{"id":"6","title":"麦卡伦（MACALLAN）洋酒 12年蓝钻单一麦芽苏格兰威士忌700ml","url":"/images/drinks6.jpg","price":"379.9"},
-	{"id":"7","title":"德国进口梅克伦堡(Mecklenburger)小麦啤酒500ml*24整箱装","url":"/images/drinks7.jpg","price":"88.9"},
-	{"id":"8","title":"澳大利亚进口红酒 Penfolds  BIN8红葡萄酒（又名：Penfolds BIN8 赤霞珠设拉子红葡萄酒）750ml","url":"/images/drinks8.jpg","price":209.9"},
-	{"id":"9","title":"马爹利（Martell）洋酒 鼎盛 VSOP 干邑 白兰地 500ml","url":"/images/drinks9.jpg","price":"219.8"},
-	{"id":"10","title":"HEINEKEN喜力啤酒瓶装250ml*24瓶 麦芽小麦啤酒","url":"/images/drinks10.jpg","price":"176.9"}
-    ]
-},
-{
     "id":"8",
     "list":[
         {"id":"1","title":"家用电脑椅学生学习写字现代简约书房座椅子办公椅转椅职员会议椅 优雅灰（白框）","url":"/images/house1.jpg","price":"379.9"},
