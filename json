@@ -81,23 +81,23 @@
         "classify":[
             {
                 "name":"夹克",
-                "url":"https://controlyou.github.io/images/夹克.jpg"
+                "url":"https://controlyou.github.io/images/夹克.png"
             },
             {
                 "name":"T恤",
-                "url":"https://controlyou.github.io/images/T-恤.png.jpg"
+                "url":"https://controlyou.github.io/images/T-恤.png"
             },
             {
                 "name":"休闲裤",
-                "url":"https://controlyou.github.io/images/休闲裤.jpg"
+                "url":"https://controlyou.github.io/images/休闲裤.png"
             },
             {
                 "name":"牛仔裤",
-                "url":"https://controlyou.github.io/images/牛仔裤.jpg"
+                "url":"https://controlyou.github.io/images/牛仔裤.png"
             },
             {
                 "name":"套装",
-                "url":"https://controlyou.github.io/images/套装.jpg"
+                "url":"https://controlyou.github.io/images/套装.png"
             },
             {
                 "name":"卫衣",
@@ -105,19 +105,19 @@
             },
             {
                 "name":"衬衫",
-                "url":"https://controlyou.github.io/images/衬衫.jpg"
+                "url":"https://controlyou.github.io/images/衬衫.png"
             },
             {
                 "name":"西服",
-                "url":"https://controlyou.github.io/images/西服.jpg"
+                "url":"https://controlyou.github.io/images/西服.png"
             },
             {
                 "name":"羽绒服",
-                "url":"https://controlyou.github.io/images/羽绒服.jpg"
+                "url":"https://controlyou.github.io/images/羽绒服.png"
             },
             {
                 "name":"更多",
-                "url":"https://controlyou.github.io/images/更多.jpg"
+                "url":"https://controlyou.github.io/images/更多.png"
             }
         ],
         "list": [
